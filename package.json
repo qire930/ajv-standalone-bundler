@@ -1,8 +1,8 @@
 {
   "name": "ajv-standalone-bundler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bundled package combining Ajv and standalone code generator for CDN usage",
-  "types": "dist/index.d.ts",
+  "types": "dist/index.d.mts",
   "exports": {
     ".": "./dist/index.mjs",
     "./*": "./*"
